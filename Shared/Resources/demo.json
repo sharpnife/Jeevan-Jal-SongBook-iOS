@@ -1,0 +1,73 @@
+[
+    {
+        "indexAlphabet" : "A",
+        "isEnglish" : false,
+        "weight" : 1,
+        "indexID": 1,
+        "title" : "AaAae hm yhaeva ka 2Nyvad kre.",
+        "lyrics" : "AaAae hm yhaeva ka 2Nyvad kre.\n\n\n\nApne sare h<dy se vNdna kre.\n\n ]ske fa3kae. me.\n\n\nStuit kre AaEr llkare.",
+    },
+    
+    {
+        "indexAlphabet" : "A",
+        "isEnglish" : false,
+        "weight" : 1,
+        "indexID": 1,
+        "title" : "AaAae Stuit kre. raj puraeihtae.",
+        "lyrics" : "AaAae Stuit kre. raj puraeihtae. ]sse srah hE piv5 sevkae. raja yexu kI kre Aara2na vae iktna mULyvan mhIma ke yaeGy hE haLlelUya-4",
+    },
+    
+    {
+        "indexAlphabet" : "b",
+        "isEnglish" : false,
+        "weight" : 34,
+        "indexID": 1,
+        "title" : "bD_I waer tere dxRn kae mE. cr`ae. me. Aata h>U",
+        "lyrics" : "AaAae Stuit kre. raj puraeihtae. ]sse srah hE piv5 sevkae. raja yexu kI kre Aara2na vae iktna mULyvan mhIma ke yaeGy hE haLlelUya-4",
+    },
+    
+    {
+        "indexAlphabet" : "b",
+        "isEnglish" : false,
+        "weight" : 34,
+        "indexID": 1,
+        "title" : "Baairx de p/wu tere hI laeg pr",
+        "lyrics" : "AaAae Stuit kre. raj puraeihtae. ]sse srah hE piv5 sevkae. raja yexu kI kre Aara2na vae iktna mULyvan mhIma ke yaeGy hE haLlelUya-4",
+    },
+    
+    {
+        "indexAlphabet" : "7",
+        "isEnglish" : false,
+        "weight" : 18,
+        "indexID": 1,
+        "title" : "7U le p/wu ]Ttr wart kae tere Pyar s",
+        "lyrics" : "AaAae Stuit kre. raj puraeihtae. ]sse srah hE piv5 sevkae. raja yexu kI kre Aara2na vae iktna mULyvan mhIma ke yaeGy hE haLlelUya-4",
+    },
+    
+    {
+        "indexAlphabet" : "d",
+        "isEnglish" : false, 
+        "weight": 29,
+        "indexID": 1,
+        "title" : "duinya pe Aa>q lgI tae",
+        "lyrics" : "AaAae Stuit kre. raj puraeihtae. ]sse srah hE piv5 sevkae. raja yexu kI kre Aara2na vae iktna mULyvan mhIma ke yaeGy hE haLlelUya-4",
+    },
+    
+    {
+        "indexAlphabet" : "k",
+        "isEnglish" : false,
+        "weight" : 12,
+        "indexID": 1,
+        "title" : "krte hE. terI hm Stuit",
+        "lyrics" : "AaAae Stuit kre. raj puraeihtae. ]sse srah hE piv5 sevkae. raja yexu kI kre Aara2na vae iktna mULyvan mhIma ke yaeGy hE haLlelUya-4",
+    },
+    
+    {
+        "indexAlphabet" : "h",
+        "isEnglish" : false,
+        "weight" : 44,
+        "indexID": 1,
+        "title" : "haLlelUyah, haLlelUyah",
+        "lyrics" : "AaAae Stuit kre. raj puraeihtae. ]sse srah hE piv5 sevkae. raja yexu kI kre Aara2na vae iktna mULyvan mhIma ke yaeGy hE haLlelUya-4",
+    }
+]
